@@ -1,0 +1,35 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.8.0_101\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+H:\Program Files (x86)\BlueJ\lib\bluejcore.jar;H:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\16 - 17 AP Comp Sci Course Materials\Program & Installation Files 16-17\Jar Files 16-17\BreezySwing.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\16 - 17 AP Comp Sci Course Materials\Program & Installation Files 16-17\Jar Files 16-17\gridworld.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\16 - 17 AP Comp Sci Course Materials\Program & Installation Files 16-17\Jar Files 16-17\hamcrest-core-1.3.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\16 - 17 AP Comp Sci Course Materials\Program & Installation Files 16-17\Jar Files 16-17\jeliotExtension.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\16 - 17 AP Comp Sci Course Materials\Program & Installation Files 16-17\Jar Files 16-17\junit-4.12.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\16 - 17 AP Comp Sci Course Materials\Program & Installation Files 16-17\Jar Files 16-17\junit-4.12-sources.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\16 - 17 AP Comp Sci Course Materials\Program & Installation Files 16-17\Jar Files 16-17\KarelJRobot.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\16 - 17 AP Comp Sci Course Materials\Program & Installation Files 16-17\Jar Files 16-17\TerminalIO.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\16 - 17 AP Comp Sci Course Materials\Program & Installation Files 16-17\Jar Files 16-17\TurtleGraphics.jar;H:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;H:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;H:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;H:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;H:\Users\Jesse\Radical Secret Files\Comp Sci\BlackJack\BlackJack
+-d
+H:\Users\Jesse\Radical Secret Files\Comp Sci\BlackJack\BlackJack\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+H:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\Users\Jesse\Radical Secret Files\Comp Sci\BlackJack\BlackJack\Dealer.java
+<---- end of javadoc command ---->
+Loading source file H:\Users\Jesse\Radical Secret Files\Comp Sci\BlackJack\BlackJack\Dealer.java...
+H:\Users\Jesse\Radical Secret Files\Comp Sci\BlackJack\BlackJack\Dealer.java:21: error: <identifier> expected
+    priavte boolean insureResult = false;
+           ^
+H:\Users\Jesse\Radical Secret Files\Comp Sci\BlackJack\BlackJack\Dealer.java:21: error: <identifier> expected
+    priavte boolean insureResult = false;
+                                ^
+2 errors
